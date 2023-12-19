@@ -27,3 +27,12 @@ Insertion Sort:
 [2, 3, 4, 8, 7, 9, 5, 15, 6]
 [2, 3, 4, 5, 7, 9, 8, 15, 6]
 [2, 3, 4, 5, 6, 9, 8, 15, 7]
+
+Big-O: İşlemler n'den 1'e kadar gideceği için, 1'den n'e kadar olan sayilarin toplami sonucu verecektir.
+            n.(n+1)/2 
+            =n^2
+
+        ->  o(n^2)
+
+   Time Complexity: [6,2,16,18,22,27] siralama yandaki gibi olacagindan 6 = Lower , 27 = Higher ve 18 = Middle oluyor
+   18 = Average Case

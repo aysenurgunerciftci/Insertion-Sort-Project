@@ -35,4 +35,5 @@ Big-O: İşlemler n'den 1'e kadar gideceği için, 1'den n'e kadar olan sayilari
         ->  o(n^2)
 
    Time Complexity: [6,2,16,18,22,27] siralama yandaki gibi olacagindan 6 = Lower , 27 = Higher ve 18 = Middle oluyor
+   
    18 = Average Case
